@@ -2,8 +2,6 @@
 Write a Java program to convert minutes into a number of years and days
  */
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
 
 public class Main {
